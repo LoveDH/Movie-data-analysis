@@ -14,6 +14,7 @@ Python
 2. `numpy`
 3. `matplotlib`
 4. `json`
+5. `datetime`
 
 ## About data
 * Source : http://www.kobis.or.kr/kobisopenapi/homepg/main/main.do - Korean Film Council openAPI
