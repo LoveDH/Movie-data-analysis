@@ -20,3 +20,8 @@ Python
 * Source : http://www.kobis.or.kr/kobisopenapi/homepg/main/main.do - Korean Film Council openAPI
 * Weekly Boxoffice of last 10 years
 * Details of movies
+
+## Comments
+- The codes need api keys. So you should get them from the web site above. If you don't know how, mail me (ehdgurdltka@naver.com).
+- It takes long time to retrieve data. You can adjust the period.
+- Sorry for my English skills. Tell me if I used the wrong expression or you don't understand.
